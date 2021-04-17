@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(23, 156, 23);
+    font-family: 'Arial Black';
+}
+
+body p{
+    font-size: 25px;
+}
